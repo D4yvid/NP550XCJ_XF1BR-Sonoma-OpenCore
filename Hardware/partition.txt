@@ -1,0 +1,35 @@
+21: None 00.0: 11300 Partition
+  [Created at block.434]
+  Unique ID: bdUI.SE1wIdpsiiC
+  Parent ID: 3OOL.Mq68qdhVddE
+  SysFS ID: /class/block/sda/sda1
+  Hardware Class: partition
+  Model: "Partition"
+  Device File: /dev/sda1
+  Device Files: /dev/sda1, /dev/disk/by-id/ata-TOSHIBA_MQ04ABF100_90IGPISXT-part1, /dev/disk/by-uuid/9E89-86B6, /dev/disk/by-partuuid/5f20f545-ddf3-4286-bb4a-3f0da2ddca87, /dev/disk/by-path/pci-0000:00:17.0-ata-1.0-part1, /dev/disk/by-path/pci-0000:00:17.0-ata-1-part1, /dev/disk/by-id/wwn-0x5000039a429084f6-part1
+  Config Status: cfg=new, avail=yes, need=no, active=unknown
+  Attached to: #20 (Disk)
+
+22: None 00.0: 11300 Partition
+  [Created at block.434]
+  Unique ID: 2pkM.SE1wIdpsiiC
+  Parent ID: 3OOL.Mq68qdhVddE
+  SysFS ID: /class/block/sda/sda2
+  Hardware Class: partition
+  Model: "Partition"
+  Device File: /dev/sda2
+  Device Files: /dev/sda2, /dev/disk/by-partuuid/0009421b-8cf9-4891-98b5-8f69c881860e, /dev/disk/by-path/pci-0000:00:17.0-ata-1-part2, /dev/disk/by-id/ata-TOSHIBA_MQ04ABF100_90IGPISXT-part2, /dev/disk/by-path/pci-0000:00:17.0-ata-1.0-part2, /dev/disk/by-uuid/f5d3912a-2c5e-48b9-880c-7b63926a30d9, /dev/disk/by-id/wwn-0x5000039a429084f6-part2
+  Config Status: cfg=new, avail=yes, need=no, active=unknown
+  Attached to: #20 (Disk)
+
+23: None 00.0: 11300 Partition
+  [Created at block.434]
+  Unique ID: W__Q.SE1wIdpsiiC
+  Parent ID: 3OOL.Mq68qdhVddE
+  SysFS ID: /class/block/sda/sda3
+  Hardware Class: partition
+  Model: "Partition"
+  Device File: /dev/sda3
+  Device Files: /dev/sda3, /dev/disk/by-partuuid/354ba1d7-7a0e-4673-a170-b8b7d6414597, /dev/disk/by-uuid/9b04aa87-668e-4af1-815d-26d07565b343, /dev/disk/by-path/pci-0000:00:17.0-ata-1-part3, /dev/disk/by-id/wwn-0x5000039a429084f6-part3, /dev/disk/by-path/pci-0000:00:17.0-ata-1.0-part3, /dev/disk/by-id/ata-TOSHIBA_MQ04ABF100_90IGPISXT-part3
+  Config Status: cfg=new, avail=yes, need=no, active=unknown
+  Attached to: #20 (Disk)

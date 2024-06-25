@@ -1,0 +1,12 @@
+[submodule "Tools/ProperTree"]
+	path = Tools/ProperTree
+	url = https://github.com/corpnewt/ProperTree
+[submodule "Tools/OpenCorePkg"]
+	path = Tools/OpenCorePkg
+	url = https://github.com/acidanthera/OpenCorePkg
+[submodule "Tools/SSDTTime"]
+	path = Tools/SSDTTime
+	url = https://github.com/corpnewt/SSDTTime
+[submodule "Tools/GenSMBIOS"]
+	path = Tools/GenSMBIOS
+	url = https://github.com/corpnewt/GenSMBIOS

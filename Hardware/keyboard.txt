@@ -1,0 +1,54 @@
+15: USB 00.0: 10800 Keyboard
+  [Created at usb.122]
+  Unique ID: 33sj.msKIeKouxx1
+  Parent ID: ADDn.h12dQh22v98
+  SysFS ID: /devices/pci0000:00/0000:00:14.0/usb1/1-1/1-1.4/1-1.4:1.0
+  SysFS BusID: 1-1.4:1.0
+  Hardware Class: keyboard
+  Model: "China Resource Semico USB Keyboard"
+  Hotplug: USB
+  Vendor: usb 0x1a2c "China Resource Semico Co., Ltd"
+  Device: usb 0x6003 "USB Keyboard"
+  Revision: "1.10"
+  Driver: "usbhid"
+  Driver Modules: "usbhid"
+  Device File: /dev/input/event8
+  Device Files: /dev/input/event8, /dev/input/by-id/usb-SEMICO_USB_Keyboard-event-kbd, /dev/input/by-path/pci-0000:00:14.0-usb-0:1.4:1.0-event-kbd
+  Device Number: char 13:72
+  Speed: 1.5 Mbps
+  Module Alias: "usb:v1A2Cp6003d0110dc00dsc00dp00ic03isc01ip01in00"
+  Driver Info #0:
+    XkbRules: xfree86
+    XkbModel: pc104
+  Config Status: cfg=new, avail=yes, need=no, active=unknown
+  Attached to: #27 (Hub)
+
+29: PS/2 00.0: 10800 Keyboard
+  [Created at input.226]
+  Unique ID: 9ui9.+49ps10DtUF
+  Hardware Class: keyboard
+  Model: "AT Translated Set 2 keyboard"
+  Vendor: 0x0001 
+  Device: 0x0001 "AT Translated Set 2 keyboard"
+  Compatible to: int 0x0211 0x0001
+  Device File: /dev/input/event3
+  Device Files: /dev/input/event3, /dev/input/by-path/platform-i8042-serio-0-event-kbd
+  Device Number: char 13:67
+  Driver Info #0:
+    XkbRules: xfree86
+    XkbModel: pc104
+  Config Status: cfg=new, avail=yes, need=no, active=unknown
+
+32: PS/2 00.0: 10800 Keyboard
+  [Created at input.226]
+  Unique ID: 1oKt.8bkLGr4ch8B
+  Hardware Class: keyboard
+  Model: "EJ-002 (AVRCP)"
+  Device: "EJ-002 (AVRCP)"
+  Compatible to: int 0x0211 0x0001
+  Device File: /dev/input/event20
+  Device Number: char 13:84
+  Driver Info #0:
+    XkbRules: xfree86
+    XkbModel: pc104
+  Config Status: cfg=new, avail=yes, need=no, active=unknown

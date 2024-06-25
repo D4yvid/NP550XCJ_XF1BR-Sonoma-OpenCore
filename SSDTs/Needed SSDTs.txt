@@ -1,0 +1,16 @@
+SSDT-PLUG:
+	Why: For allowing Power Managment to work properly
+	Code: Sources/SSDT-PLUG.asl
+
+SSDT-EC-USBX:
+	Why: Fix embedded controllers (and USB)
+	Code: Sources/SSDT-EC-USBX.asl
+
+SSDT-PNLF:
+	Why: Fix backlight
+	Code: Sources/SSDT-PNLF.asl
+
+SSDT-GPI0:
+
+SSDT-AWAC:
+

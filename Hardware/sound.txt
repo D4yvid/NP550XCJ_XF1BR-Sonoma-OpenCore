@@ -1,0 +1,25 @@
+16: PCI 1f.3: 0401 Multimedia audio controller
+  [Created at pci.386]
+  Unique ID: nS1_.63FLS+Td9wE
+  SysFS ID: /devices/pci0000:00/0000:00:1f.3
+  SysFS BusID: 0000:00:1f.3
+  Hardware Class: sound
+  Device Name: "Onboard - Sound"
+  Model: "Intel Multimedia audio controller"
+  Vendor: pci 0x8086 "Intel Corporation"
+  Device: pci 0x02c8 
+  SubVendor: pci 0x144d "Samsung Electronics Co Ltd"
+  SubDevice: pci 0xc834 
+  Driver: "snd_hda_intel"
+  Driver Modules: "snd_hda_intel"
+  Memory Range: 0xd4318000-0xd431bfff (rw,non-prefetchable)
+  Memory Range: 0xd4100000-0xd41fffff (rw,non-prefetchable)
+  IRQ: 140 (1201 events)
+  Module Alias: "pci:v00008086d000002C8sv0000144Dsd0000C834bc04sc01i00"
+  Driver Info #0:
+    Driver Status: snd_hda_intel is active
+    Driver Activation Cmd: "modprobe snd_hda_intel"
+  Driver Info #1:
+    Driver Status: snd_sof_pci_intel_cnl is active
+    Driver Activation Cmd: "modprobe snd_sof_pci_intel_cnl"
+  Config Status: cfg=new, avail=yes, need=no, active=unknown

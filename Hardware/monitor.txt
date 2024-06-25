@@ -1,0 +1,64 @@
+19: None 00.0: 10002 LCD Monitor
+  [Created at monitor.125]
+  Unique ID: rdCR.WP+tJvka3_4
+  Parent ID: _Znp.hNq4Kblwl12
+  Hardware Class: monitor
+  Model: "SAMSUNG"
+  Vendor: SAM "SAMSUNG"
+  Device: eisa 0x7048 "SAMSUNG"
+  Resolution: 720x400@70Hz
+  Resolution: 640x480@60Hz
+  Resolution: 640x480@67Hz
+  Resolution: 640x480@72Hz
+  Resolution: 640x480@75Hz
+  Resolution: 800x600@60Hz
+  Resolution: 800x600@72Hz
+  Resolution: 800x600@75Hz
+  Resolution: 832x624@75Hz
+  Resolution: 1024x768@60Hz
+  Resolution: 1024x768@70Hz
+  Resolution: 1024x768@75Hz
+  Resolution: 1280x720@60Hz
+  Resolution: 1366x768@60Hz
+  Size: 522x293 mm
+  Year of Manufacture: 2020
+  Week of Manufacture: 1
+  Detailed Timings #0:
+     Resolution: 1366x768
+     Horizontal: 1366 1436 1579 1792 (+70 +213 +426) +hsync
+       Vertical:  768  771  774  798 (+3 +6 +30) +vsync
+    Frequencies: 85.50 MHz, 47.71 kHz, 59.79 Hz
+  Year of Manufacture: 2020
+  Week of Manufacture: 1
+  Detailed Timings #1:
+     Resolution: 1280x720
+     Horizontal: 1280 1390 1430 1650 (+110 +150 +370) +hsync
+       Vertical:  720  725  730  750 (+5 +10 +30) +vsync
+    Frequencies: 74.25 MHz, 45.00 kHz, 60.00 Hz
+  Driver Info #0:
+    Max. Resolution: 1366x768
+    Vert. Sync Range: 24-75 Hz
+    Hor. Sync Range: 15-68 kHz
+    Bandwidth: 85 MHz
+  Config Status: cfg=new, avail=yes, need=no, active=unknown
+  Attached to: #16 (VGA compatible controller)
+
+20: None 01.0: 10002 LCD Monitor
+  [Created at monitor.125]
+  Unique ID: wkFv.SJjQoieLgeB
+  Parent ID: _Znp.hNq4Kblwl12
+  Hardware Class: monitor
+  Model: "BOE CQ LCD Monitor"
+  Vendor: BOE "BOE CQ"
+  Device: eisa 0x08ef 
+  Resolution: 1366x768@60Hz
+  Size: 344x194 mm
+  Year of Manufacture: 2019
+  Week of Manufacture: 1
+  Detailed Timings #0:
+     Resolution: 1366x768
+     Horizontal: 1366 1414 1446 1592 (+48 +80 +226) -hsync
+       Vertical:  768  771  777  798 (+3 +9 +30) +vsync
+    Frequencies: 76.23 MHz, 47.88 kHz, 60.00 Hz
+  Config Status: cfg=new, avail=yes, need=no, active=unknown
+  Attached to: #16 (VGA compatible controller)

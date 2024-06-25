@@ -1,0 +1,58 @@
+14: PCI 100.0: 0302 3D controller
+  [Created at pci.386]
+  Unique ID: VCu0.J9DuqE4SIpB
+  Parent ID: z8Q3.FdgSZf3IitF
+  SysFS ID: /devices/pci0000:00/0000:00:1c.0/0000:01:00.0
+  SysFS BusID: 0000:01:00.0
+  Hardware Class: graphics card
+  Model: "nVidia GM108M [GeForce MX110]"
+  Vendor: pci 0x10de "nVidia Corporation"
+  Device: pci 0x174e "GM108M [GeForce MX110]"
+  SubVendor: pci 0x144d "Samsung Electronics Co Ltd"
+  SubDevice: pci 0xc834 
+  Revision: 0xa2
+  Driver: "nouveau"
+  Driver Modules: "nouveau"
+  Memory Range: 0xd3000000-0xd3ffffff (rw,non-prefetchable)
+  Memory Range: 0xc0000000-0xcfffffff (ro,non-prefetchable)
+  Memory Range: 0xd0000000-0xd1ffffff (ro,non-prefetchable)
+  I/O Ports: 0x4000-0x4fff (rw)
+  Memory Range: 0xd4000000-0xd407ffff (ro,non-prefetchable,disabled)
+  IRQ: 127 (129 events)
+  Module Alias: "pci:v000010DEd0000174Esv0000144Dsd0000C834bc03sc02i00"
+  Driver Info #0:
+    Driver Status: nvidiafb is not active
+    Driver Activation Cmd: "modprobe nvidiafb"
+  Driver Info #1:
+    Driver Status: nouveau is active
+    Driver Activation Cmd: "modprobe nouveau"
+  Config Status: cfg=new, avail=yes, need=no, active=unknown
+  Attached to: #8 (PCI bridge)
+
+22: PCI 02.0: 0300 VGA compatible controller (VGA)
+  [Created at pci.386]
+  Unique ID: _Znp.hNq4Kblwl12
+  SysFS ID: /devices/pci0000:00/0000:00:02.0
+  SysFS BusID: 0000:00:02.0
+  Hardware Class: graphics card
+  Device Name: "Onboard - Video"
+  Model: "Intel VGA compatible controller"
+  Vendor: pci 0x8086 "Intel Corporation"
+  Device: pci 0x9bca 
+  SubVendor: pci 0x144d "Samsung Electronics Co Ltd"
+  SubDevice: pci 0xc834 
+  Revision: 0x04
+  Driver: "i915"
+  Driver Modules: "i915"
+  Memory Range: 0xd2000000-0xd2ffffff (rw,non-prefetchable)
+  Memory Range: 0xb0000000-0xbfffffff (ro,non-prefetchable)
+  I/O Ports: 0x5000-0x503f (rw)
+  Memory Range: 0x000c0000-0x000dffff (rw,non-prefetchable,disabled)
+  IRQ: 128 (11507834 events)
+  Module Alias: "pci:v00008086d00009BCAsv0000144Dsd0000C834bc03sc00i00"
+  Driver Info #0:
+    Driver Status: i915 is active
+    Driver Activation Cmd: "modprobe i915"
+  Config Status: cfg=new, avail=yes, need=no, active=unknown
+
+Primary display adapter: #22

@@ -1,0 +1,24 @@
+20: IDE 00.0: 10600 Disk
+  [Created at block.245]
+  Unique ID: 3OOL.Mq68qdhVddE
+  Parent ID: abAj.KPXyFJ1Wu36
+  SysFS ID: /class/block/sda
+  SysFS BusID: 0:0:0:0
+  SysFS Device Link: /devices/pci0000:00/0000:00:17.0/ata1/host0/target0:0:0/0:0:0:0
+  Hardware Class: disk
+  Model: "TOSHIBA MQ04ABF1"
+  Vendor: "TOSHIBA"
+  Device: "MQ04ABF1"
+  Revision: "3F"
+  Serial ID: "90IGPISXT"
+  Driver: "ahci", "sd"
+  Driver Modules: "ahci"
+  Device File: /dev/sda
+  Device Files: /dev/sda, /dev/disk/by-id/ata-TOSHIBA_MQ04ABF100_90IGPISXT, /dev/disk/by-path/pci-0000:00:17.0-ata-1.0, /dev/disk/by-path/pci-0000:00:17.0-ata-1, /dev/disk/by-id/wwn-0x5000039a429084f6
+  Device Number: block 8:0-8:15
+  BIOS id: 0x80
+  Geometry (Logical): CHS 121601/255/63
+  Size: 1953525168 sectors a 512 bytes
+  Capacity: 931 GB (1000204886016 bytes)
+  Config Status: cfg=new, avail=yes, need=no, active=unknown
+  Attached to: #2 (SATA controller)

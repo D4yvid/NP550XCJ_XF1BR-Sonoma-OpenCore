@@ -1,0 +1,384 @@
+01: None 00.0: 10105 BIOS
+  [Created at bios.186]
+  Unique ID: rdCR.lZF+r4EgHp4
+  Hardware Class: bios
+  BIOS Keyboard LED Status:
+    Scroll Lock: off
+    Num Lock: off
+    Caps Lock: off
+  SMBIOS Version: 3.2
+  BIOS Info: #0
+    Vendor: "American Megatrends Inc."
+    Version: "P12RFH.054.220223.HC"
+    Date: "02/23/2022"
+    Start Address: 0xf0000
+    ROM Size: 16384 kB
+    Features: 0x0d0300000001378b9880
+      PCI supported
+      BIOS flashable
+      BIOS shadowing allowed
+      CD boot supported
+      Selectable boot supported
+      BIOS ROM socketed
+      EDD spec supported
+      1.2MB Floppy supported
+      720kB Floppy supported
+      2.88MB Floppy supported
+      Print Screen supported
+      Serial Services supported
+      Printer Services supported
+      ACPI supported
+      USB Legacy supported
+      BIOS Boot Spec supported
+  System Info: #1
+    Manufacturer: "SAMSUNG ELECTRONICS CO., LTD."
+    Product: "550XCJ/550XCR"
+    Version: "P12RFH"
+    Serial: "09MW9QAR101447"
+    UUID: 721f9c00-4969-11eb-b4ca-964cf0eb5f00
+    Wake-up: 0x06 (Power Switch)
+  Board Info: #2
+    Manufacturer: "SAMSUNG ELECTRONICS CO., LTD."
+    Product: "NP550XCJ-XF1BR"
+    Version: "SGLA664A0C-C01-G001-S0001+10.0.19041"
+    Serial: "123490EN400015"
+    Asset Tag: "No Asset Tag"
+    Type: 0x0a (Motherboard)
+    Features: 0x09
+      Hosting Board
+      Replaceable
+    Location: "Middle"
+    Chassis: #3
+  Chassis Info: #3
+    Manufacturer: "SAMSUNG ELECTRONICS CO., LTD."
+    Version: "N/A"
+    Serial: "09MW9QAR101447"
+    Asset Tag: "No Asset Tag"
+    Type: 0x0a (Notebook)
+    Bootup State: 0x03 (Safe)
+    Power Supply State: 0x03 (Safe)
+    Thermal State: 0x03 (Safe)
+    Security Status: 0x03 (None)
+  Port Connector: #4
+    Type: 0x1c (Video Port)
+    Internal Designator: "J1A1"
+    External Designator: "Video"
+    External Connector: 0xff (Other)
+  Port Connector: #5
+    Type: 0x1d (Audio Port)
+    Internal Designator: "J2A1"
+    External Designator: "Audio"
+    External Connector: 0x1f (Mini-jack [headphones])
+  Port Connector: #6
+    Type: 0x10 (USB)
+    Internal Designator: "J3A1"
+    External Designator: "USB1"
+    External Connector: 0x12 (Access Bus [USB])
+  Port Connector: #7
+    Type: 0x10 (USB)
+    Internal Designator: "J3A2"
+    External Designator: "USB2"
+    External Connector: 0x12 (Access Bus [USB])
+  On Board Devices: #8
+    Video: "Onboard GFx"
+    Ethernet: "Onboard WLAN"
+    Other: "Onboard SATA"
+  OEM Strings: #9
+    AAABAAAAAWVA
+    2021/04/10
+    SECPARTN:RFH
+    Not Specified
+    Not Specified
+    Not Specified
+    [LCD_15][IBT_01]
+    202115-1
+  System Config Options (Jumpers & Switches) #10:
+    ASCI:FFFFFFFF
+  Type 22 Record: #11
+    Data 00: 16 1a 0b 00 01 02 03 04 05 02 54 a8 88 2c 06 ff
+    Data 10: 36 07 90 51 07 01 78 56 34 12
+    String 1: "In the chassis"
+    String 2: "SAMSUNG ELECTRONICS CO., LTD."
+    String 3: "0"
+    String 4: "0"
+    String 5: "SAMSUNG BATTERY"
+    String 6: "01.10.00"
+    String 7: "06h"
+  Type 32 Record: #12
+    Data 00: 20 14 0c 00 00 00 00 00 00 00 00 00 00 00 00 00
+    Data 10: 00 00 00 00
+  Type 26 Record: #13
+    Data 00: 1a 16 0d 00 01 6a 00 80 00 80 00 80 00 80 00 80
+    Data 10: 00 00 00 00 00 80
+    String 1: "EC"
+  Type 28 Record: #14
+    Data 00: 1c 16 0e 00 01 67 00 80 00 80 00 80 00 80 00 80
+    Data 10: 00 00 00 00 00 80
+    String 1: "EC"
+  Type 27 Record: #15
+    Data 00: 1b 0f 0f 00 0e 00 67 01 00 00 00 00 00 80 01
+    String 1: "Cooling Dev 1"
+  Type 29 Record: #16
+    Data 00: 1d 16 10 00 01 67 00 80 00 80 00 80 00 80 00 80
+    Data 10: 00 00 00 00 00 80
+    String 1: "Not Specified"
+  Type 39 Record: #17
+    Data 00: 27 16 11 00 01 01 02 03 04 05 06 07 00 80 a2 11
+    Data 10: 0d 00 0f 00 10 00
+    String 1: "Bottom"
+    String 2: "Not Specified"
+    String 3: "SAMSUNG ELECTRONICS CO., LTD."
+    String 4: "None"
+    String 5: "No Asset Tag"
+    String 6: "Not Specified"
+    String 7: "1.0"
+  Physical Memory Array: #18
+    Use: 0x03 (System memory)
+    Location: 0x03 (Motherboard)
+    Slots: 2
+    Max. Size: 32 GB
+    ECC: 0x03 (None)
+  Memory Device: #19
+    Location: "ChannelA-DIMM0"
+    Bank: "BANK 0"
+    Manufacturer: "Crucial"
+    Serial: "E808C3EE"
+    Asset Tag: "9876543210"
+    Part Number: "CB8GS2666.C8RT"
+    Memory Array: #18
+    Form Factor: 0x01 (Other)
+    Type: 0x1a (Other)
+    Type Detail: 0x0080 (Synchronous)
+    Data Width: 64 bits
+    Size: 8 GB
+    Speed: 2667 MHz
+  Memory Device: #20
+    Location: "ChannelB-DIMM0"
+    Bank: "BANK 2"
+    Manufacturer: "0194"
+    Serial: "07474A74"
+    Asset Tag: "9876543210"
+    Part Number: "SMS4TDC8C1K0446FCG"
+    Memory Array: #18
+    Form Factor: 0x01 (Other)
+    Type: 0x1a (Other)
+    Type Detail: 0x0080 (Synchronous)
+    Data Width: 64 bits
+    Size: 8 GB
+    Speed: 2667 MHz
+  Memory Array Mapping: #21
+    Memory Array: #18
+    Partition Width: 2
+    Start Address: 0x0000000000000000
+    End Address: 0x0000000400000000
+  Memory Device Mapping: #22
+    Memory Device: #19
+    Array Mapping: #21
+    Interleave Pos: 1
+    Interleaved Depth: 1
+    Start Address: 0x0000000000000000
+    End Address: 0x0000000200000000
+  Memory Device Mapping: #23
+    Memory Device: #20
+    Array Mapping: #21
+    Interleave Pos: 2
+    Interleaved Depth: 1
+    Start Address: 0x0000000200000000
+    End Address: 0x0000000400000000
+  Type 221 Record: #24
+    Data 00: dd 0c 18 00 01 01 00 02 00 00 a4 11
+    String 1: "BIOS Guard"
+  Type 221 Record: #25
+    Data 00: dd 1a 19 00 03 01 00 09 00 1e 30 00 02 00 00 00
+    Data 10: 00 c6 00 03 00 01 06 00 00 00
+    String 1: "Reference Code - CPU"
+    String 2: "uCode Version"
+    String 3: "TXT ACM version"
+  Type 221 Record: #26
+    Data 00: dd 1a 1a 00 03 01 00 09 00 1e 30 00 02 00 00 00
+    Data 10: 00 00 00 03 04 0e 00 2d 6d 05
+    String 1: "Reference Code - ME"
+    String 2: "MEBx version"
+    String 3: "ME Firmware Version"
+    String 4: "Consumer SKU"
+  Type 221 Record: #27
+    Data 00: dd 36 1b 00 07 01 00 09 00 1e 30 00 02 03 ff ff
+    Data 10: ff ff ff 04 00 ff ff ff 00 00 05 00 ff ff ff 00
+    Data 20: 00 06 00 ff ff ff ff ff 07 00 15 ff ff ff ff 08
+    Data 30: 00 00 ff ff ff ff
+    String 1: "Reference Code - CML PCH"
+    String 2: "PCH-CRID Status"
+    String 3: "Disabled"
+    String 4: "PCH-CRID Original Value"
+    String 5: "PCH-CRID New Value"
+    String 6: "OPROM - RST - RAID"
+    String 7: "ChipsetInit Base Version"
+    String 8: "ChipsetInit Oem Version"
+  Type 221 Record: #28
+    Data 00: dd 36 1c 00 07 01 00 09 00 1e 30 00 02 00 00 00
+    Data 10: 00 2d 00 03 00 09 00 1e 30 00 04 05 ff ff ff ff
+    Data 20: ff 06 00 00 00 00 00 00 07 00 00 00 00 00 00 08
+    Data 30: 00 ff ff ff ff ff
+    String 1: "Reference Code - SA - System Agent"
+    String 2: "Reference Code - MRC"
+    String 3: "SA - PCIe Version"
+    String 4: "SA-CRID Status"
+    String 5: "Enabled"
+    String 6: "SA-CRID Original Value"
+    String 7: "SA-CRID New Value"
+    String 8: "OPROM - VBIOS"
+  Type 221 Record: #29
+    Data 00: dd 0c 1d 00 01 01 00 04 00 00 00 00
+    String 1: "FSP Binary Version"
+  Cache Info: #30
+    Designation: "L1 Cache"
+    Level: L1
+    State: Enabled
+    Mode: 0x01 (Write Back)
+    Location: 0x00 (Internal, Not Socketed)
+    ECC: 0x04 (Parity)
+    Type: 0x05 (Unified)
+    Associativity: 0x07 (8-way Set-Associative)
+    Max. Size: 256 kB
+    Current Size: 256 kB
+    Supported SRAM Types: 0x0020 (Synchronous)
+    Current SRAM Type: 0x0020 (Synchronous)
+  Cache Info: #31
+    Designation: "L2 Cache"
+    Level: L2
+    State: Enabled
+    Mode: 0x01 (Write Back)
+    Location: 0x00 (Internal, Not Socketed)
+    ECC: 0x05 (Single-bit)
+    Type: 0x05 (Unified)
+    Associativity: 0x05 (4-way Set-Associative)
+    Max. Size: 1024 kB
+    Current Size: 1024 kB
+    Supported SRAM Types: 0x0020 (Synchronous)
+    Current SRAM Type: 0x0020 (Synchronous)
+  Cache Info: #32
+    Designation: "L3 Cache"
+    Level: L3
+    State: Enabled
+    Mode: 0x01 (Write Back)
+    Location: 0x00 (Internal, Not Socketed)
+    ECC: 0x06 (Multi-bit)
+    Type: 0x05 (Unified)
+    Associativity: 0x09 (Other)
+    Max. Size: 6144 kB
+    Current Size: 6144 kB
+    Supported SRAM Types: 0x0020 (Synchronous)
+    Current SRAM Type: 0x0020 (Synchronous)
+  Processor Info: #33
+    Socket: "U3E1"
+    Socket Type: 0x3b (Other)
+    Socket Status: Populated
+    Type: 0x03 (CPU)
+    Family: 0xcd (Other)
+    Manufacturer: "Intel(R) Corporation"
+    Version: "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz"
+    Serial: "None"
+    Asset Tag: "No Asset Tag"
+    Part Number: "Not Specified"
+    Processor ID: 0xbfebfbff000a0660
+    Status: 0x01 (Enabled)
+    Voltage: 0.7 V
+    External Clock: 100 MHz
+    Max. Speed: 8300 MHz
+    Current Speed: 1485 MHz
+    L1 Cache: #30
+    L2 Cache: #31
+    L3 Cache: #32
+  Type 131 Record: #34
+    Data 00: 83 40 22 00 31 00 00 00 00 00 00 00 00 00 00 00
+    Data 10: f8 00 84 02 00 00 00 00 01 00 00 00 00 00 0e 00
+    Data 20: 6d 05 2d 00 00 00 00 00 fe 00 ff ff 00 00 00 00
+    Data 30: 00 00 00 00 22 00 00 00 76 50 72 6f 00 00 00 00
+  Type 41 Record: #35
+    Data 00: 29 0b 23 00 01 81 01 00 00 00 00
+    String 1: "Onboard - Other"
+  Type 41 Record: #36
+    Data 00: 29 0b 24 00 01 83 01 00 00 00 10
+    String 1: "Onboard - Video"
+  Type 41 Record: #37
+    Data 00: 29 0b 25 00 01 81 02 00 00 00 20
+    String 1: "Onboard - Other"
+  Type 41 Record: #38
+    Data 00: 29 0b 26 00 01 81 03 00 00 00 90
+    String 1: "Onboard - Other"
+  Type 41 Record: #39
+    Data 00: 29 0b 27 00 01 81 04 00 00 00 a0
+    String 1: "Onboard - Other"
+  Type 41 Record: #40
+    Data 00: 29 0b 28 00 01 81 05 00 00 00 a2
+    String 1: "Onboard - Other"
+  Type 41 Record: #41
+    Data 00: 29 0b 29 00 01 85 01 00 00 00 a3
+    String 1: "Onboard - Ethernet"
+  Type 41 Record: #42
+    Data 00: 29 0b 2a 00 01 81 06 00 00 00 a8
+    String 1: "Onboard - Other"
+  Type 41 Record: #43
+    Data 00: 29 0b 2b 00 01 81 07 00 00 00 b0
+    String 1: "Onboard - Other"
+  Type 41 Record: #44
+    Data 00: 29 0b 2c 00 01 89 01 00 00 00 b8
+    String 1: "Onboard - SATA"
+  Type 41 Record: #45
+    Data 00: 29 0b 2d 00 01 81 08 00 00 00 f8
+    String 1: "Onboard - Other"
+  Type 41 Record: #46
+    Data 00: 29 0b 2e 00 01 87 01 00 00 00 fb
+    String 1: "Onboard - Sound"
+  Type 41 Record: #47
+    Data 00: 29 0b 2f 00 01 81 09 00 00 00 fc
+    String 1: "Onboard - Other"
+  Type 41 Record: #48
+    Data 00: 29 0b 30 00 01 81 0a 00 00 00 fd
+    String 1: "Onboard - Other"
+  Type 221 Record: #49
+    Data 00: dd 59 31 00 0c 01 00 ff ff ff ff ff 02 00 ff ff
+    Data 10: ff ff ff 03 04 ff ff ff ff ff 05 06 ff ff ff ff
+    Data 20: ff 07 08 ff ff ff ff ff 09 00 00 00 00 00 00 0a
+    Data 30: 00 ff ff ff ff ff 0b 00 ff ff 00 00 00 0c 00 00
+    Data 40: 09 00 95 10 0d 00 ff ff ff ff ff 0e 00 00 07 00
+    Data 50: 00 00 0f 00 00 02 00 0f 00
+    String 1: "Lan Phy Version"
+    String 2: "Sensor Firmware Version"
+    String 3: "Debug Mode Status"
+    String 4: "Disabled"
+    String 5: "Performance Mode Status"
+    String 6: "Disabled"
+    String 7: "Debug Use USB(Disabled:Serial)"
+    String 8: "Disabled"
+    String 9: "ICC Overclocking Version"
+    String 10: "UNDI Version"
+    String 11: "EC FW Version"
+    String 12: "GOP Version"
+    String 13: "Royal Park Version"
+    String 14: "Platform Version"
+    String 15: "Client Silicon Version"
+  Group Associations: #50
+    Group Name: "$MEI"
+    Items: #0
+  Type 219 Record: #51
+    Data 00: db 6a 33 00 01 04 01 45 02 00 90 06 01 85 36 20
+    Data 10: 00 00 00 04 40 00 00 01 1f 00 00 08 0b 40 44 02
+    Data 20: ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff
+    Data 30: ff ff ff ff ff ff ff ff 03 00 00 00 80 00 00 00
+    Data 40: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    Data 50: 00 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+    Data 60: 00 00 00 00 00 00 00 00 00 00
+    String 1: "MEI1"
+    String 2: "MEI2"
+    String 3: "MEI3"
+    String 4: "MEI4"
+  Type 136 Record: #52
+    Data 00: 88 06 34 00 5a 5a
+  Group Associations: #53
+    Group Name: "Firmware Version Info"
+    Items: #24, #25, #26, #27, #28, #29, #49
+  Language Info: #54
+    Languages: en|US|iso8859-1
+    Current: en|US|iso8859-1
+  Config Status: cfg=new, avail=yes, need=no, active=unknown
